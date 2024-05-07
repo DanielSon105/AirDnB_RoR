@@ -68,3 +68,5 @@ end
 
 gem "jsbundling-rails", "~> 1.3"
 gem 'devise'
+
+gem 'toastr-rails', '~> 1.0'
