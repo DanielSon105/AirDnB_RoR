@@ -5,3 +5,4 @@
 import { application } from "../../javascript/controllers/application"
 
 //= link_tree ../builds
+//= link jquery.js
